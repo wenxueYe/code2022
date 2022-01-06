@@ -1,3 +1,5 @@
+利用SSH操作
+
 在github上浏览器修改
 
 master上进行一部分修改
